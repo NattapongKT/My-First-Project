@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\Web-app-core-mvc-5292024.exe
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\Web-app-core-mvc-5292024.dll
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\Web-app-core-mvc-5292024.deps.json
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\Web-app-core-mvc-5292024.runtimeconfig.json
+C:\Users\Dell\Desktop\My_Project_For_Resume\Web-app-core-mvc-5292024\Web-app-core-mvc-5292024\obj\Release\net8.0\PubTmp\Out\Web-app-core-mvc-5292024.pdb
